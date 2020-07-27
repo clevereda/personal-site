@@ -11,7 +11,7 @@ const Main = (props) => (
   <>
     <Analytics />
     <ScrollToTop />
-    <Helmet titleTemplate="%s | Michael D'Angelo" defaultTitle="Michael D'Angelo" />
+    <Helmet titleTemplate="%s | Clever Aaron Mukori" defaultTitle="Clever Aaron Mukori" />
     <div id="wrapper">
       <Header />
       <div id="main">

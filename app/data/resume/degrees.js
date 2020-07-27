@@ -1,14 +1,14 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'Emerging Prairie Digital Academy, Fargo, ND',
+    degree: '20-Week Fullstack Computer Engineering Bootcamp',
+    link: 'https://www.emergingprairie.com/emerging-digital-academy/',
+    year:  2020,
   }, {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'Concordia College Moorhead, MN',
+    degree: 'B.A. Chemistry & Biology',
+    link: 'https://www.concordiacollege.edu/',
+    year: 2017,
   },
 ];
 
